@@ -1,0 +1,176 @@
+[
+    {
+        "id": 1,
+        "name": "Lengua a la Criolla",
+        "image": "img\/lengua-criolla.jpg",
+        "price": 18100,
+        "description": "",
+        "category_name": "Del dia"
+    },
+    {
+        "id": 3,
+        "name": "Cordon Blue en Salsa",
+        "image": ".\/img\/cordon-blue.jpg",
+        "price": 14000
+    },
+    {
+        "id": 4,
+        "name": "Bagre",
+        "image": ".\/img\/bagre.jpg",
+        "price": 14000
+    },
+    {
+        "id": 5,
+        "name": "Bocachico Sudado",
+        "image": ".\/img\/bocachico-sudado.jpg",
+        "price": 14000
+    },
+    {
+        "id": 6,
+        "name": "Chuleta de Cerdo",
+        "image": ".\/img\/chuleta-cerdo.jpg",
+        "price": "15000"
+    },
+    {
+        "id": 7,
+        "name": "Chuleta de Pescado",
+        "image": ".\/img\/chuleta-pescado.jpg",
+        "price": 14000
+    },
+    {
+        "id": 8,
+        "name": "Sobrebarriga a la Criolla",
+        "image": ".\/img\/sobrebarriga.jpg",
+        "price": 14000
+    },
+    {
+        "id": 9,
+        "name": "Especial de Bandeja Paisa",
+        "image": ".\/img\/bandeja-paisa.jpg",
+        "price": 16000
+    },
+    {
+        "id": 10,
+        "name": "Especial de Costilla en Salsa BBQ",
+        "image": ".\/img\/costilla-bbq.jpg",
+        "price": 16000
+    },
+    {
+        "id": 11,
+        "name": "Carne Asada",
+        "image": ".\/img\/carne-asada.jpg",
+        "price": 14000
+    },
+    {
+        "id": 12,
+        "name": "Carne Molida",
+        "image": ".\/img\/carne-molida.jpg",
+        "price": 14000
+    },
+    {
+        "id": 13,
+        "name": "Solo Sopa Sancocho",
+        "image": ".\/img\/sancocho.jpg",
+        "price": 8000
+    },
+    {
+        "id": 14,
+        "name": "Solo Sopa Pescado Otawa",
+        "image": ".\/img\/sopa-pescado.jpg",
+        "price": 8000,
+        "description": "",
+        "category_name": "Solo sopa"
+    },
+    {
+        "id": 15,
+        "name": "Entrada Frijol",
+        "image": ".\/img\/sopa-pescado.jpg",
+        "price": 0
+    },
+    {
+        "id": 16,
+        "name": "Entrada Uyuco",
+        "image": ".\/img\/sopa-pescado.jpg",
+        "price": 0
+    },
+    {
+        "id": 17,
+        "name": "Ensalada Verde",
+        "image": ".\/img\/sopa-pescado.jpg",
+        "price": 0
+    },
+    {
+        "id": 18,
+        "name": "Ensalada Roja Cata",
+        "image": ".\/img\/sopa-pescado.jpg",
+        "price": 0,
+        "description": "",
+        "category_name": "Ensalada"
+    },
+    {
+        "id": 21,
+        "name": "Solo Sopa Costilla",
+        "image": "img\/sopa-costilla.jpg",
+        "price": "8000"
+    },
+    {
+        "id": 22,
+        "name": "Arroz Paisa",
+        "image": "img\/arroz-paisa.jpg",
+        "price": "19000"
+    },
+    {
+        "id": 23,
+        "name": "Ensalada Fría",
+        "image": "img\/ensalada-fria.jpg",
+        "price": "10"
+    },
+    {
+        "id": 24,
+        "name": "Entrada Spaguetti",
+        "image": "img\/spaguetti.jpg",
+        "price": "10"
+    },
+    {
+        "id": 25,
+        "name": "Solo Sopa Consomé de Pollo",
+        "image": "img\/consome-pollo.jpg",
+        "price": "8000"
+    },
+    {
+        "id": 26,
+        "name": "Especial Camaron",
+        "image": "img\/camarones.jpg",
+        "price": "28000"
+    },
+    {
+        "id": 27,
+        "name": "Entrada Tallarines",
+        "image": "img\/tallarines.jpg",
+        "price": "0"
+    },
+    {
+        "id": 28,
+        "name": "Kimchi",
+        "description": "",
+        "price": 27500,
+        "image": "img\/prod_680d1194ab7803.37844068.jpg",
+        "category_name": "Del dia"
+    },
+    {
+        "id": 30,
+        "name": "Especial Cayeye",
+        "description": "",
+        "price": 19500,
+        "image": "img\/prod_680efdb9685496.58140208.jpg",
+        "category_name": "Especial"
+    },
+    {
+        "id": 31,
+        "name": "Especial Arroz de lisa",
+        "description": "",
+        "price": 23500,
+        "image": "img\/prod_680f0c3dbb6536.68882745.jpg",
+        "category_name": "Especial"
+    }
+]
